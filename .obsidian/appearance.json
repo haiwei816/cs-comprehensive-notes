@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Typewriter",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "accentColor": "#e1e0ad",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false
+}
