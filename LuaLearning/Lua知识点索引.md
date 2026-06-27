@@ -36,7 +36,7 @@
 - [[Programming in Lua 学习笔记#4.1 赋值语句|多重赋值]]：`a, b = 1, 2`
 - [[Programming in Lua 学习笔记#4.2 局部变量 ——★★★ 重要|局部变量]]：`local`，块级作用域
 - [[Programming in Lua 学习笔记#4.3 控制结构|控制结构]]：`if` `while` `repeat` `for`
-- [[Programming in Lua 学习笔记#4.4 break 和 return|break/return 的块尾限制]]
+- [[Programming in Lua 学习笔记#4.4 break 和 return ——★★ 限制|break/return 的块尾限制]]
 
 ### 第5章  函数 ——★★★ 核心
 - [[Programming in Lua 学习笔记#5.1 多返回值|多返回值]]：`return a, b`
